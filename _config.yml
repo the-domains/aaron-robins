@@ -1,0 +1,28 @@
+name: Aaron Robins
+favicon: null
+layout_spectrum: 0.35813185339793563
+typography_spectrum: 0.24725889042019844
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.16157464543357491
+  lightness: 0.2558929966762662
+  saturation: 0.9210533055011183
+  rhythmicContrast: 0.4367274069227278
+purpose: []
