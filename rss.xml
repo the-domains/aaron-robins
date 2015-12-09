@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Aaron Robins]]></title>
+        <description><![CDATA[Aaron Robins]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Dec 2015 21:46:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>So, where to begin. What kind of site should we be today? Star Wars, Family Circus, or full HuffPost?</p>]]></description>
+            <link>undefined9c391257-17e8-4aa7-8f86-36b3d880da65/index.html</link>
+            <guid isPermaLink="false">9c391257-17e8-4aa7-8f86-36b3d880da65</guid>
+            <pubDate>Wed, 09 Dec 2015 21:46:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
